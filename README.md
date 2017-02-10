@@ -2,7 +2,7 @@
 
 The example provided allows communication between an RC car and a remote control. 
 
-This code is used communicate between a controller arduino and an RC car using an RF transmitter chip and an RF receiver chip.
+This code is used communicate between a controller arduino and an RC car using an RF transmitter chip and RF receiver chip.
 
 
 SCHEMATIC RC.jpg - shows how the electronics are set up
